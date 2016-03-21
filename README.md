@@ -11,3 +11,8 @@ Profile will be styled with Bootstrap and Bootswatch for that added flavor.
 * animate.css
 * JavaScript
 * jQuery
+
+
+<p align="center">
+&copy; Eric Ho
+</p>
