@@ -581,13 +581,13 @@ ul.navbar-nav > .active > a{
 #portfolio{
     background: #FBFAF8;
 }
-#isotope-filter{
+/*#isotope-filter{
     padding:35px 0px;
 }
 #isotope-filter a{
 color: #fff!important;
 padding: 10px 15px;
-}
+}*/
 
 /*Portfolio Caption
 =========================================*/
@@ -687,7 +687,7 @@ padding: 8px 15px;
 
 
 /* -- Isotope start -- */
-#isotope{
+/*#isotope{
     width:100%;
     margin-top:0;
 }
@@ -699,21 +699,18 @@ padding: 8px 15px;
 }
 .isotope,
 .isotope .isotope-item{
-/*transition-duration*/
 -webkit-transition-duration:1s;
    -moz-transition-duration:1s;
      -o-transition-duration:1s;
         transition-duration:1s;
 }
 .isotope{
-/*transition-property*/
 -webkit-transition-property:height, width;
    -moz-transition-property:height, width;
      -o-transition-property:height, width;
         transition-property:height, width;
 }
 .isotope .isotope-item{
-/*transition-property*/
 -webkit-transition-property:0px opacity;
    -moz-transition-property:0px opacity;
      -o-transition-property:0px opacity;
@@ -736,7 +733,7 @@ padding: 8px 15px;
 
 #isotope-filter a:first-child:before{
     content:" ";
-}
+}*/
 
 /*portfolio single bx slider
 ===================================*/
@@ -2359,7 +2356,11 @@ padding: 8px 15px;
 }
 .hero-title span{
     color: #EE3B24;
+/*    color: #EE0000;
+*/    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
 }
+
 .hero-description {
     margin-bottom: 30px;
     font-size: 18px;
