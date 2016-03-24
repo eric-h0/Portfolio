@@ -2,7 +2,8 @@
 
 User profile under construction!
 
-Profile will be styled with Bootstrap and Bootswatch for that added flavor.
+Bulk of work in completed.
+Next step will be optimizing the contact portion as well as to clean up some of the animations.
 
 # Languages used:
 * HTML5
