@@ -83,6 +83,7 @@ h3{
 h4{
     line-height:25px;
     font-size: 18px;
+    text-align: justify;
 }
 h5{
     line-height:25px;
@@ -2614,4 +2615,9 @@ iframe{
     background: #EE3B24;
     right: 10px;
     top: -10px;
+}
+
+#ruGoing {
+    width: 80%;
+    float: middle;
 }
